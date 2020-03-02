@@ -1,0 +1,53 @@
+body {
+    background-color: lightskyblue}
+
+.navbar {
+    background-color: 
+}
+.header {
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.header2 {
+    padding: 20px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+}
+
+.mugshot {
+    position: relative;
+    margin: 0 auto;
+}
+
+.portheader {
+    text-align: center;
+}
+
+.card {
+    background-color:lightcyan;
+    margin: 0 auto;
+}
+
+.cb2 {
+    text-align: center;
+}
+.btn {
+    border: none;
+    background-color: lightslategray;
+}
+
+.footerlogo {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mt-0_mb-1_email {
+    padding-top: 15px;
+}
+
