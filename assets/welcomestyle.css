@@ -1,9 +1,10 @@
 body {
     background-color: lightskyblue}
 
-.navbar {
+/* .navbar {
     background-color: 
-}
+} */
+
 .header {
     position: relative;
     margin: 0 auto;
@@ -18,7 +19,7 @@ body {
     margin: 0 auto;
     text-align: center;
 }
-}
+
 
 .mugshot {
     position: relative;
